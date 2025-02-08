@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on a mobile app for medication management using Kotlin and improving my API integration skills.<br>👯 I’m looking to collaborate on projects related to Android development, specifically Kotlin-based applications or projects involving machine learning and simulations.<br>🤝 I’m looking for help with advanced API integration and regression models in R.<br>🌱 I’m currently learning Kotlin for mobile development, API usage, and focusing on simulations and modeling.<br>💬 Ask me about my experiences developing mobile applications or my Java projects.<br>⚡ Fun fact: I enjoy solving complex problems in game development and once created an RPG called Monster Slayer as a semester project.
+🎓 I’m currently completing my bachelor's degree in Informatics and Control at the University of Žilina. <br>
+💡 I enjoy developing Android applications, creating simple games, and exploring machine learning and simulations. <br>
+🌱 I’m currently learning Kotlin for mobile development, API integration, and looking forward to mastering algorithms and data structures in C. <br>
+💬 Ask me about my experiences developing mobile applications or my Java projects. <br>
+⚡ I love solving problems in simulations and game development. As a semester project, I created a small RPG game called Monster Slayer in Java. <br>
 
 
 ## 🌐 Socials:
