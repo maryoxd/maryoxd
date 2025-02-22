@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently completing my bachelor's degree in Informatics and Control at the University of Žilina. <br>
+🎓 I’m currently completing my bachelor's degree in Informatics at the University of Žilina. <br>
 💡 I enjoy developing Android applications, creating simple games, and exploring machine learning and simulations. <br>
 🌱 I’m currently learning Kotlin for mobile development, API integration, and looking forward to mastering algorithms and data structures in C. <br>
 💬 Ask me about my experiences developing mobile applications or my Java projects. <br>
