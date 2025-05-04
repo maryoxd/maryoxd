@@ -1,9 +1,9 @@
 # 💫 About Me:
 🎓 I have completed my bachelor's degree in Informatics at the University of Žilina. My thesis focused on developing a mobile medication management app. <br>
-💡 I enjoy developing Android applications, creating simple games, and exploring new programming languages, technologies, and tools.
-🌱 I’m currently learning Kotlin for mobile development, working with APIs, and aiming to master algorithms and data structures in C.
-💬 Feel free to ask me about my experience with mobile development or Java-based projects.
-⚡ I love solving problems through simulations and game development. As a semester project, I created a small RPG game called Monster Slayer in Java.
+💡 I enjoy developing Android applications, creating simple games, and exploring new programming languages, technologies, and tools. <br>
+🌱 I’m currently learning Kotlin for mobile development, working with APIs, and aiming to master algorithms and data structures in C. <br>
+💬 Feel free to ask me about my experience with mobile development or Java-based projects. <br>
+⚡ I love solving problems through simulations and game development. As a semester project, I created a small RPG game called Monster Slayer in Java. <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/marijoxd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mario.159_) 
