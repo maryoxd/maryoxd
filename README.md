@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I have completed my bachelor's degree in Informatics at the University of Žilina. My thesis focused on developing a mobile medication management app.
+🎓 I have completed my bachelor's degree in Informatics at the University of Žilina. My thesis focused on developing a mobile medication management app. <br>
 💡 I enjoy developing Android applications, creating simple games, and exploring new programming languages, technologies, and tools.
 🌱 I’m currently learning Kotlin for mobile development, working with APIs, and aiming to master algorithms and data structures in C.
 💬 Feel free to ask me about my experience with mobile development or Java-based projects.
