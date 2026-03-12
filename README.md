@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mário</h1>
-<h3 align="center">💻 Software Developer | Java & Kotlin | Android Enthusiast</h3>
+<h3 align="center">💻 Software Developer | Student | Žilina </h3>
 
 <p align="center">
   🎓 Informatics Graduate — University of Žilina  
