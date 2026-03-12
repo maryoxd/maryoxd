@@ -70,7 +70,7 @@
 
 <p align="center">
 
-https://github-profile-trophy.vercel.app/?username=maryoxd&theme=transparent&no-frame=false&no-bg=false&margin-w=4
+![](https://github-profile-trophy.vercel.app/?username=maryoxd&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
 </p>
 
