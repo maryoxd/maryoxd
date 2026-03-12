@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mário Žilinčík</h1>
+<h1 align="center">👋 Hi, I'm Mário</h1>
 <h3 align="center">💻 Software Developer | Java & Kotlin | Android Enthusiast</h3>
 
 <p align="center">
@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=maryoxd&theme=transparent&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=maryoxd&theme=onedark&no-frame=true&row=1&column=6"/>
 
 </p>
 
