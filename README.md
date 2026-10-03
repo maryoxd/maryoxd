@@ -1,66 +1,38 @@
-<h1 align="center">👋 Hi, I'm Mário</h1>
-<h3 align="center">💻 Software Developer | Student | Žilina </h3>
+<div align="center">
 
-<p align="center">
-  🎓 Informatics Graduate — University of Žilina  
-  <br>
-  🚀 Passionate about building mobile apps, exploring new technologies, and improving my engineering skills through side projects.
+# 👋 Hi, I'm Mário
+
+### Software Developer · Mobile · Backend · DevOps
+
+<p>
+  Building software with a focus on
+  <strong>Kotlin, Android, backend systems and clean architecture.</strong>
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 Graduated in **Informatics at the University of Žilina**
-- 📱 Focused on **mobile development (Android / Kotlin)**
-- 💊 Built **CareDose**, a medication management app as my bachelor thesis
-- ⚔️ Created **Monster Slayer**, a turn-based RPG game in Java
-- 🧠 Interested in **algorithms, software architecture, and clean code**
-- 🛠️ I enjoy building **small projects to experiment with new technologies**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
+<p>
   <a href="https://discord.gg/marijoxd">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://instagram.com/mario.159_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maryoxd&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=maryoxd&theme=transparent&hide_border=true" height="160"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryoxd&theme=transparent&hide_border=true&layout=compact" height="150"/>
-
-</p>
-
+```kotlin
+val mario = Developer(
+    location = "Žilina, Slovakia",
+    university = "University of Žilina",
+    focus = listOf(
+        "Mobile Development",
+        "Backend Development",
+        "DevOps",
+        "Software Architecture"
+    ),
+    mainLanguage = "Kotlin"
+)
