@@ -103,26 +103,6 @@ val mario = Developer(
 
 ---
 
-## 🧩 Projects
-
-### 💊 CareDose
-
-> Medication management application created as my bachelor thesis.
-
-**Focus:**  
-`Mobile Development` · `Medication Management` · `User Experience`
-
----
-
-### ⚔️ Monster Slayer
-
-> Turn-based RPG game built in Java.
-
-**Focus:**  
-`Java` · `OOP` · `Game Logic`
-
----
-
 ## 🎯 Currently Focused On
 
 <div align="center">
