@@ -45,7 +45,6 @@ val mario = Developer(
 ```
 
 - 🎓 Studying **Informatics at the University of Žilina**
-- 📱 Focused on **mobile development — Android / Kotlin**
 - ⚙️ Interested in **backend development and DevOps**
 - 💊 Built **CareDose**, a medication management application as my bachelor thesis
 - ⚔️ Created **Monster Slayer**, a turn-based RPG game in Java
