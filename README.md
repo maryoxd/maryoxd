@@ -103,18 +103,6 @@ val mario = Developer(
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=maryoxd&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&hide_border=true"
-/>
-
-</div>
-
----
-
 ## 🧩 Projects
 
 ### 💊 CareDose
